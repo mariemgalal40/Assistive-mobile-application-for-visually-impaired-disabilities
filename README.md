@@ -7,3 +7,8 @@
 #### 2- clothes texture pattern recognition
 
 #### 3- Egyptian banknotes recognition
+
+#### 4- Numbers recognition
+
+[[Video](https://drive.google.com/file/d/19V_C0kYKpr6uHIctTG4sbfzSgdx61tkY/view?usp=sharing)]
+
